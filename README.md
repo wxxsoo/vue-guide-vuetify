@@ -3,6 +3,9 @@
 ## 개요
 Vue.js와 Vuetify를 이용한 개발 가이드 작성을 위한 템플릿 Repository입니다.
 
+## Preview
+https://brave-poincare-c8f564.netlify.app/
+
 ## Skills
 - Vue.js
 - Vue Router
